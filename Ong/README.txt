@@ -9,4 +9,4 @@ Páginas:
 - projeto.html: Apresenta os projetos sociais desenvolvidos.
 - cadastro.html: Formulário para novos voluntários.
 
-Para visualizar o site, extraia o conteúdo do arquivo ZIP e abra 'index.html' em um navegador.
+
